@@ -1,0 +1,22 @@
+[
+
+{"id":1, "tipo":"bailable","nombre": "Diosa", "precio": 1000, "thumbnail": "https://us.123rf.com/450wm/zeber/zeber1201/zeber120100253/12150515-multitud-de-gente-del-partido.jpg?ver=6"},
+{"id":2, "tipo":"pub","nombre": "El Agujero", "precio": 2000, "thumbnail": "https://wallpaperaccess.com/full/1886681.jpg"},
+{"id":3, "tipo":"bailable","nombre": "Red Point", "precio": 3500, "thumbnail": "https://www.whitevoid.com/wordpress/wp-content/uploads/2019/03/16-9-Hi-Ibiza-WHITEvoid-NEWS-1920x1080.jpg"},
+{"id":4, "tipo":"bailable","nombre": "La Luciernaga", "precio": 1200, "thumbnail":"https://zone1-ibizaspotlightsl.netdna-ssl.com/sites/default/files/styles/auto_1500_width/public/article-images/137495/slideshow-1642705822.png"},
+{"id":5, "tipo":"pub","nombre": "Sunshine", "precio": 4000, "thumbnail": "https://www.itl.cat/pngfile/big/314-3145735_shop-interior-bar-coffee-pub-bayonne-france-a.jpg"},
+{"id":6, "tipo":"bailable","nombre": "Baby baby", "precio": 2600, "thumbnail":"https://www.wallpaperup.com/uploads/wallpapers/2016/10/24/1028596/cdc9376f8a5cbe24e79f41c69db58b80.jpg"},
+{"id":7, "tipo":"pub","nombre": "El faro", "precio": 1300, "thumbnail": "https://cdn.concreteplayground.com/content/uploads/2019/05/190523_MarysUnderground-Venue-FullEmpty_TheJamesAdams5G9A4703.jpg"},
+{"id":8, "tipo":"pub","nombre": "Inmortal", "precio": 1800, "thumbnail": "https://cdn.concreteplayground.com/content/uploads/2016/10/eau-de-vie-474x308.jpg"},
+{"id":9, "tipo":"bailable","nombre": "black Velvet", "precio": 3400, "thumbnail": "https://c4.wallpaperflare.com/wallpaper/279/107/730/bar-club-dance-dancing-wallpaper-preview.jpg"},
+{"id":10, "tipo":"bailable","nombre": "Tiger", "precio": 1000, "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQweo3bXI9P6yumJXgeuCvrjr-4V1gKy9-baLC3rAAahJbdkpAZj30xnX0kSVX2L7SEwjM&usqp=CAU"},
+{"id":11, "tipo":"pub","nombre": "Sky", "precio": 2000, "thumbnail": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/3418124/15941073433_d910b967e4_k.0.jpg"},
+{"id":12, "tipo":"bailable","nombre": "return", "precio": 3500, "thumbnail":"https://media.baamboozle.com/uploads/images/65902/1616828126_466009.jpeg"},
+{"id":13, "tipo":"bailable","nombre": "Heeelll", "precio": 1900, "thumbnail": "https://images.miamiandbeaches.com/getmedia/5d2f089b-d939-4069-b6e7-56bb0054d50a/Story_Nightclub_1440x900.aspx?ext=.jpg"},
+{"id":14, "tipo":"pub","nombre": "Tamarindo", "precio": 5000, "thumbnail":"https://p4.wallpaperbetter.com/wallpaper/240/760/50/indoors-bar-interior-design-pub-wallpaper-preview.jpg"},
+{"id":15, "tipo":"bailable","nombre": "arcano", "precio": 2600, "thumbnail": "https://images.miamiandbeaches.com/getmedia/aa03f9f4-9491-4f35-9304-db44181a19b6/Story_nightclub_performance_1440x900.aspx?ext=.jpg"},
+{"id":16, "tipo":"pub","nombre": "astral", "precio": 1300, "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBxtmvCTaPZ4pYHKjTJPyNjLIMiY1Pj8ifTMsHLrO69kw1ISFtRpAJOwpFRxOpeQnSWBQ&usqp=CAU"},
+{"id":17, "tipo":"pub","nombre": "White", "precio": 1500, "thumbnail":"https://www.dhresource.com/0x0/f2/albu/g10/M01/85/43/rBVaVlybL8GAUlrOAANxurJ0H7o015.jpg"},
+{"id":18, "tipo":"bailable","nombre": "vainilla", "precio": 3400, "thumbnail":"https://www.coolibri.de/wp-content/uploads/2019/02/westend2_club_essen-1200x675.jpg"}
+
+]

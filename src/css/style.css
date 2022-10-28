@@ -1,0 +1,67 @@
+.body{
+    padding: 5%;
+    background-color:whitesmoke;
+    color: black;
+    transition: ease 1s;
+    
+}
+
+.darkMode{
+    background-color: black;
+    color: #50D821;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.resultados{
+    padding: 10vh 5vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3vw;
+}
+.tituloPrincipal{
+    font-family: "Rubik Glitch";
+    text-align: center;
+    transform: all 10s;
+    overflow: hidden;
+    transform:all 10s;
+    overflow:hidden;
+    color: darkgrey;
+    font-size: 80px;
+}
+    
+.tituloPrincipal:hover{
+    transition:all;
+    color: #61bf19;
+    transition-duration:5s;
+    transition-timing-function:cubic-bezier(0.3, 3, 0.44, 2);
+    -webkit-transition-duration:1s;
+    transform:translate(50px) scale(1)}
+    
+.tituloPrincipal.wrapper{
+    display:inline-flex;
+    margin-left:50%
+}
+.cardClub{
+    width: 300px;
+    background-color: rgb(129, 129, 129);
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.cardClub img{
+    align-self: center;
+    width: 90%;
+    border-radius: 20px;
+}
+.cardClub img:hover{
+    transition: all 1s;
+    opacity: 0.5;
+}
+.resultTitleContainer{
+    text-align: center;
+    font-family: "Rubik Glitch";
+    color: #50D821;
+}
