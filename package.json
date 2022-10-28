@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SabrinaHorisberger/Proyecto-Final/issues"
   },
-  "homepage": "https://github.com/SabrinaHorisberger/Proyecto-Final#readme"
+  "homepage": "https://github.com/SabrinaHorisberger/Proyecto-Final#readme",
+  "dependencies": {
+    "sweetalert2": "^11.6.4"
+  }
 }
